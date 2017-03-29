@@ -1,0 +1,13 @@
+body{
+	
+  background-color:#51E5C6;    
+}
+#main{
+	text-align:center;
+	margin-top:180px;
+}
+label{
+	display:inline-block;
+	width:150px;
+	text-align:left;
+}
